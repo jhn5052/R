@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553656375841.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "338299034",
+    "id" : "6F4B087B",
+    "lastKnownWriteTime" : 1554222621,
+    "last_content_update" : 1554222621598,
+    "path" : "C:/DS_R/HW1/Hw1.R",
+    "project_path" : "Hw1.R",
+    "properties" : {
+        "cursorPosition" : "6,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
